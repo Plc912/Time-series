@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "time_series_feature_extractor": {
+            "command": "python",
+            "args": [
+                "server.py"
+            ],
+            "transport": "sse",
+            "port": 4008
+        }
+    }
+}
+
